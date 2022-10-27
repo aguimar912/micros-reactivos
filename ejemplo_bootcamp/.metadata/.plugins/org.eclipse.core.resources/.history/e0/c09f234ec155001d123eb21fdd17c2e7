@@ -1,0 +1,11 @@
+package ejemplo.ejemplo1;
+
+public class Perro implements MiInterfazFuncional{
+
+	@Override
+	public String doSomething(String param) {
+		
+		return param;
+	}
+
+}

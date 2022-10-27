@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\atrujilg\Documents\ejemplo_bootcamp\.metadata\.plugins\org.eclipse.jdt.core
+3479212367.index
+2680077694.index
+1865797976.index

@@ -1,0 +1,5 @@
+package ejemplo.ejemplo1;
+
+public interface MiInterfazFuncional {
+
+}

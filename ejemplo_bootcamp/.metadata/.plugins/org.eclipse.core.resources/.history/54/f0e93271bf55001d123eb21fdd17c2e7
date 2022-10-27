@@ -1,0 +1,7 @@
+package ejemplo.ejemplo1;
+
+public interface MiInterfazFuncional {
+	
+	String doSomething(String param);
+	
+}
